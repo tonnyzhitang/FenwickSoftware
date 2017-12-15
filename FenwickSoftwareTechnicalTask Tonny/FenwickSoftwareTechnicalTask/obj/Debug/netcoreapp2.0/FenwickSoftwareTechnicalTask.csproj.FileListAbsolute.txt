@@ -1,0 +1,11 @@
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.deps.json
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.runtimeconfig.json
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.runtimeconfig.dev.json
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.dll
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.pdb
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.csproj.CoreCompileInputs.cache
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.AssemblyInfoInputs.cache
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.AssemblyInfo.cs
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.dll
+c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.pdb
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.csprojResolveAssemblyReference.cache
