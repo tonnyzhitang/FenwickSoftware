@@ -7,8 +7,10 @@ namespace FenwickSoftwareTechnicalTask
 {
     public class CMD
     {
-        //store numbers values
+        //command statements elements
         private string[] Cmds;
+
+        //commands list
         private List<Command> Appcmds = new List<Command>();
 
         public CMD() {
@@ -31,7 +33,7 @@ namespace FenwickSoftwareTechnicalTask
         public void ConsoleLine() {
 
             Console.Write(">");
-            //user input cammand line
+            //let user input cammand line
             string cmd = Console.ReadLine();
 
             //check empty input
@@ -42,21 +44,23 @@ namespace FenwickSoftwareTechnicalTask
 
             string[] commands = cmd.Split(new char[0]);
 
+            //Check input have at least two statments
             if (commands.Length >= 2)
             {
                 string commandName = commands[1].Replace(" ","");
-                Command current = Appcmds.SingleOrDefault(c => c.CommandName == commandName);
-                       
+                Command current = Appcmds.SingleOrDefault(c => c.CommandName == commandName);     
+                //check command exsit
                 if (current != null)
                 {
+                    //take actions
                     current.Action(ref cmd, ref Cmds, ref Appcmds);
                 }
                 else {
-                    Appcmds[0].CommandNotFound();
+                    Console.WriteLine("No command found.");
                 }
             }
             else {
-                Appcmds[0].CommandNotFound();
+                Console.WriteLine("No command found.");
             }
 
             ConsoleLine();

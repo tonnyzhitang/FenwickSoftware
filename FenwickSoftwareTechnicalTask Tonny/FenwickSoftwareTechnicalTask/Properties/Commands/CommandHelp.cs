@@ -19,7 +19,7 @@ namespace FenwickSoftwareTechnicalTask
                 return false;
             }
 
-            //print all the commans description in command list
+            //print all the commands description in commands list
             Console.WriteLine("+-----------------Command Helper------------------+\n");
             foreach (var cm in appCommands) {
                 Console.WriteLine(cm.CommandDescription);

@@ -6,9 +6,11 @@ namespace FenwickSoftwareTechnicalTask
 {
     public abstract class Command
     {
-        //important command name is the keywrord using in command line
+        //important command name is the keywrord using in command line//
         public string CommandName;
         public string CommandDescription;
+
+        //file path for both record and summary
         private string Filepath = "";
 
         public Command(string commandName, string commandDescription) {
@@ -16,14 +18,16 @@ namespace FenwickSoftwareTechnicalTask
             CommandDescription = commandDescription;
         }
 
+        //Command action
         public abstract bool Action(ref string cmdline, ref string[] commands, ref List<Command> appCommands);
 
+        //Check "Stats.exe" command and get Filepath value if there is
         public bool CheckCommand(ref string cmdline, ref string[] commands)
         {
             //Split cammand line
             commands = cmdline.Split(new char[0]);
 
-            //stats, action ,Filepath check
+            //stats,Filepath get
             try
             {
                 if (!commands[0].Equals("Stats.exe"))

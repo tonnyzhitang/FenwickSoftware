@@ -7,6 +7,7 @@ namespace FenwickSoftwareTechnicalTask
 {
     public class CommandSummary : Command
     {
+        //numbers from file will be added into this list
         private List<double> Numbers;
 
         public CommandSummary(string commandName, string commandDescription)
@@ -43,9 +44,11 @@ namespace FenwickSoftwareTechnicalTask
                 return false;
             }
 
+            //initialise list
             Numbers = new List<double>();
+            //Split content to numbers
             read_num = content.Split(new char[0]);
-            //Update the numbers into List for calculation (min, max, avg)
+            //transfer the numbers to double type and add the numbers into List for calculation (min, max, avg)
             for (int i = 0; i < read_num.Length; i++)
             {
                 if (!read_num[i].Replace("  ", "").Equals(""))
