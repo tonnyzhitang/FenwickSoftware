@@ -43,7 +43,7 @@ namespace FenwickSoftwareTechnicalTask
             //Check file exist. if not exist throw an exception
             if (!File.Exists(Filepath))
             {
-                throw new System.ArgumentException("File not found");
+                throw new System.ArgumentException("File not found\n");
             }
 
             //read content from a file

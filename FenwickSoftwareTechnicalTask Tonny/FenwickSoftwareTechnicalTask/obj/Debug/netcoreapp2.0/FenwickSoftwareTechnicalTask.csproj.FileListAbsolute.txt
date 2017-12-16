@@ -9,3 +9,14 @@ c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnica
 c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.dll
 c:\users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.pdb
 C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.csprojResolveAssemblyReference.cache
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.deps.json
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.runtimeconfig.json
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.dll
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\bin\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.pdb
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.csprojResolveAssemblyReference.cache
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.AssemblyInfo.cs
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.dll
+C:\Users\tonny\source\repos\FenwickSoftwareTechnicalTask Tonny\FenwickSoftwareTechnicalTask\obj\Debug\netcoreapp2.0\FenwickSoftwareTechnicalTask.pdb

@@ -6,7 +6,7 @@ namespace FenwickSoftwareTechnicalTask
     {
         static void Main(string[] args)
         {
-            Command cm = new Command();
+            CMD cm = new CMD();
             cm.ConsoleLine();
         }
     }
